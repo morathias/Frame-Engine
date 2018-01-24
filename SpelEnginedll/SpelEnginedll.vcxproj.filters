@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{89549bf2-d4ad-4af6-b129-13e86f9b097b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utility">
+      <UniqueIdentifier>{24f6e5e5-ba2b-4dba-b9c1-71899c353e78}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DllExportDefine.h">
+      <Filter>Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Importer.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Importer.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
