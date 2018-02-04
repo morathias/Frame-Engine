@@ -38,11 +38,9 @@
 *.exp
 SpelEnginedll/Debug/
 SpelEnginedll/Release/
-SpelEnginedll/x64/
 SpelEngineApp/Debug/
 SpelEngineApp/Release/
 SpelEngineApp/x64/
 
 #bins and libs
 bin/
-lib/
