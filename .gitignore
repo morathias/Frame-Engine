@@ -14,7 +14,6 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -24,10 +23,26 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
 *.sdf
+
+#debug
+*.tlog
+*.log
+*.pdb
+*.ilk
+*.exp
+SpelEnginedll/Debug/
+SpelEnginedll/Release/
+SpelEnginedll/x64/
+SpelEngineApp/Debug/
+SpelEngineApp/Release/
+SpelEngineApp/x64/
+
+#bins and libs
+bin/
+lib/
