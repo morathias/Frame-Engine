@@ -4,3 +4,6 @@
 # Spel-Engine
 
 Open-Source, Multi-Platform, 3D, 2D Game engine
+
+Editor Concept:
+![solarized vim](https://github.com/morathias/Spel-Engine/raw/master/Editor-Concept.png)
